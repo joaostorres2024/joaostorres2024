@@ -11,7 +11,7 @@ Estou em busca da minha primeira oportunidade na área de TI para desenvolver mi
 
 ## 📫 Contato
 - 📩 Email: joao.pedrost2004@gmail.com
-- 🔗 LinkedIn: <a href="https://www.linkedin.com/in/jo%C3%A3o-pedro-soares-torres-101a532b4/"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg"></a>
+- 🔗 LinkedIn: <a href="https://www.linkedin.com/in/jo%C3%A3o-pedro-soares-torres-101a532b4/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 - 🐙 GitHub: [seu-github](https://github.com/seu-usuario)
 
 💡 Sempre aberto para novas conexões e desafios! Vamos construir algo incrível juntos! 🚀
