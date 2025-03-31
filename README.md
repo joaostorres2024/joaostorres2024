@@ -1,6 +1,6 @@
-# 👋 Olá, eu sou [Seu Nome]!
+# 👋 Olá, eu sou João Pedro!
 
-Sou um entusiasta da tecnologia, apaixonado por desenvolvimento de software e soluções inovadoras. Atualmente, estou focado em **Java**, **Spring Boot** e **Linux**, sempre buscando aprender e evoluir na área de TI. 🚀
+Tenho 21 anos, cursando Análise e Desenvolvimento de Sistemas na Universidade Católica de Brasília! Possuo habilidades em **Java**, **Spring Boot** e **Linux**, sempre buscando aprender e evoluir na área de TI.
 
 ## 🔧 Tecnologias e Ferramentas
 
@@ -8,6 +8,7 @@ Sou um entusiasta da tecnologia, apaixonado por desenvolvimento de software e so
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50" alt="Java" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="50" height="50" alt="Spring Boot" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" height="50" alt="Linux" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/networking/networking-original.svg"/>
 </p>
 
 ## 📚 Sobre mim
