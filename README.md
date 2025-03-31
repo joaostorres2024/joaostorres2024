@@ -4,24 +4,14 @@ Tenho 21 anos e curso Análise e Desenvolvimento de Sistemas na Universidade Cat
 
 Estou em busca da minha primeira oportunidade na área de TI para desenvolver minhas habilidades, ganhar experiência e contribuir com soluções inovadoras.
 
-## 🔧 Tecnologias e Ferramentas
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50" alt="Java" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="50" height="50" alt="Spring Boot" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" height="50" alt="Linux" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/networking/networking-original.svg"/>
-</p>
-
-## 📚 Sobre mim
+## 📚 Meu Resumo
 - 🎓 Estudante de **Análise e Desenvolvimento de Sistemas** na Universidade Católica.
-- 💼 Buscando oportunidades como **desenvolvedor Java** ou **suporte em TI**.
-- 💡 Criador da iniciativa **Só CSS**, um projeto colaborativo para animações em CSS.
-- 💻 Fundador da **CodeNext**, uma empresa de desenvolvimento de software.
+- 💼 Buscando oportunidades de Estágio como **Desenvolvedor Java**, **Suporte em TI** ou **Analista de Redes**.
+- 💻 Possuo experiência profissional como **UX/UI Designer** na empresa **YourCLub.io**
 
 ## 📫 Contato
-- 📩 Email: [seuemail@example.com](mailto:seuemail@example.com)
-- 🔗 LinkedIn: [seu-linkedin](https://linkedin.com/in/seu-perfil)
+- 📩 Email: joao.pedrost2004@gmail.com
+- 🔗 LinkedIn: <a href="https://www.linkedin.com/in/jo%C3%A3o-pedro-soares-torres-101a532b4/"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg"></a>
 - 🐙 GitHub: [seu-github](https://github.com/seu-usuario)
 
 💡 Sempre aberto para novas conexões e desafios! Vamos construir algo incrível juntos! 🚀
