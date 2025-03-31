@@ -1,6 +1,8 @@
-# 👋 Olá, eu sou João Pedro!
+👋 Olá, eu sou João Pedro! 😃
 
-Tenho 21 anos, cursando Análise e Desenvolvimento de Sistemas na Universidade Católica de Brasília! Possuo habilidades em **Java**, **Spring Boot** e **Linux**, sempre buscando aprender e evoluir na área de TI.
+Tenho 21 anos e curso Análise e Desenvolvimento de Sistemas na Universidade Católica de Brasília! Possuo habilidades em Java, Spring Boot, Redes de Computadores e Linux. Atualmente, venho postando no meu perfil do GitHub meu dia a dia no mundo da programação, com projetos desafiadores que estimulam minha curiosidade e aprendizado.
+
+Estou em busca da minha primeira oportunidade na área de TI para desenvolver minhas habilidades, ganhar experiência e contribuir com soluções inovadoras.
 
 ## 🔧 Tecnologias e Ferramentas
 
