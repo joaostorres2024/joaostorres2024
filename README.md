@@ -7,7 +7,7 @@ Trabalho na **Geap Saúde** e atuo como estagiário, onde sou **Desenvolvedor Fu
 ## 📚 Meu Resumo
 - 🎓 Estudante de **Análise e Desenvolvimento de Sistemas** na Universidade Católica.
 - 💻 Possuo experiência profissional como **UX/UI Designer** na empresa **YourCLub.io**
-- - 💻 Possuo experiência profissional como **Desenvolvedor Full-Stack** na empresa **Geap Saúde**
+- 💻 Possuo experiência profissional como **Desenvolvedor Full-Stack** na empresa **Geap Saúde**
 
 ## 📫 Contato
 <a href="mailto:joaopedrost2004@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a><a href="https://www.linkedin.com/in/jo%C3%A3o-pedro-soares-torres-101a532b4/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
