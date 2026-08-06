@@ -1,13 +1,13 @@
 ## 👋 Olá, eu sou João Pedro! 😃
 
-Tenho 22 anos e curso Análise e Desenvolvimento de Sistemas na Universidade Católica de Brasília! Possuo habilidades em C#, .NET Framework, Vue.js e Quasar Framework. Atualmente, venho postando no meu perfil do GitHub meu dia a dia no mundo da programação, com projetos universitários e próprios onde expando meu conhecimento e experiência no mundo de **Desenvolvolvimento Full-Stack**.
+Tenho 22 anos, formado em Análise e Desenvolvimento de Sistemas na Universidade Católica de Brasília! Possuo habilidades em C#, .NET Framework, Vue.js e Quasar Framework. Atualmente, venho postando no meu perfil do GitHub meu dia a dia no mundo da programação, com projetos coorporativos e próprios onde expando meu conhecimento e experiência no mundo de **Desenvolvolvimento Fullstack**.
 
-Trabalho na **Geap Saúde** e atuo como estagiário, onde sou **Desenvolvedor Full-Stack**.
+Trabalho na **Geap Saúde** e atuo como **Desenvolvedor Fullstack Júnior** com 1 ano de experiência.
 
 ## 📚 Meu Resumo
-- 🎓 Estudante de **Análise e Desenvolvimento de Sistemas** na Universidade Católica.
+- 🎓 Formado de **Análise e Desenvolvimento de Sistemas** pela Universidade Católica.
 - 💻 Possuo experiência profissional como **UX/UI Designer** na empresa **YourCLub.io**
-- 💻 Possuo experiência profissional como **Desenvolvedor Full-Stack** na empresa **Geap Saúde**
+- 💻 Possuo experiência profissional como **Desenvolvedor Fullstack** na empresa **Geap Saúde**
 
 ## 📫 Contato
 <a href="mailto:joaopedrost2004@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a><a href="https://www.linkedin.com/in/jo%C3%A3o-pedro-soares-torres-101a532b4/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
